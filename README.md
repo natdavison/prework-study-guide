@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+To use this guide, you can review the notes in each section depending on the topic you're studying. Open the Chrome DevTools console panel for a suggestion on what to study first!
 
 ## Credits
 
